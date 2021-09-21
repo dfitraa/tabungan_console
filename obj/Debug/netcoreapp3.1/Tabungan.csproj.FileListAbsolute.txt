@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\Tabungan\bin\Debug\netcoreapp3.1\Tabungan.exe
+C:\Users\ASUS\source\repos\Tabungan\bin\Debug\netcoreapp3.1\Tabungan.deps.json
+C:\Users\ASUS\source\repos\Tabungan\bin\Debug\netcoreapp3.1\Tabungan.runtimeconfig.json
+C:\Users\ASUS\source\repos\Tabungan\bin\Debug\netcoreapp3.1\Tabungan.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Tabungan\bin\Debug\netcoreapp3.1\Tabungan.dll
+C:\Users\ASUS\source\repos\Tabungan\bin\Debug\netcoreapp3.1\Tabungan.pdb
+C:\Users\ASUS\source\repos\Tabungan\obj\Debug\netcoreapp3.1\Tabungan.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Tabungan\obj\Debug\netcoreapp3.1\Tabungan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Tabungan\obj\Debug\netcoreapp3.1\Tabungan.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Tabungan\obj\Debug\netcoreapp3.1\Tabungan.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Tabungan\obj\Debug\netcoreapp3.1\Tabungan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Tabungan\obj\Debug\netcoreapp3.1\Tabungan.dll
+C:\Users\ASUS\source\repos\Tabungan\obj\Debug\netcoreapp3.1\Tabungan.pdb
+C:\Users\ASUS\source\repos\Tabungan\obj\Debug\netcoreapp3.1\Tabungan.genruntimeconfig.cache
